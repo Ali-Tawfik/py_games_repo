@@ -1,0 +1,7 @@
+Scroll to change the size of the tools and pictures
+
+To undo press ctrl+z
+To redo press ctrl+y
+
+hold the right key to rotate images to the right
+hold the left key to rotate images to the left
